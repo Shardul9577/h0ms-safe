@@ -161,9 +161,7 @@ const SkeletonOne = () => {
         As of my last update, Uttar Pradesh was often referred to as the
         &quot;accident capital of India&quot;. This state has reported a high number of
         road accidents annually, largely due to its large population and
-        extensive road network. Factors contributing to its high accident rate
-        include poor road conditions, high vehicle density, and sometimes lax
-        enforcement of traffic laws.
+        extensive road network.
       </p>
     </div>
   );
@@ -179,9 +177,7 @@ const SkeletonTwo = () => {
         driving and wrong-side driving are also significant factors, both
         resulting in impaired judgment and dangerous collisions. Using mobile
         phones while driving and jumping red lights contribute to distracted
-        driving and risky intersection incidents. Adverse weather conditions,
-        vehicle defects such as brake failures, and poor road maintenance like
-        unmarked hazards increase accident risks.
+        driving and risky intersection incidents.
       </p>
     </div>
   );
@@ -194,12 +190,7 @@ const SkeletonThree = () => {
       <p className='font-normal text-base my-4 max-w-lg text-neutral-200'>
         Typically, Uttar Pradesh, including its city Kanpur, reports a high
         number of fatalities due to road accidents, often leading among states
-        in India. Detailed and specific statistics, such as the total number of
-        deaths due to accidents in Uttar Pradesh and particularly in Kanpur for
-        a given year, would be available in the annual reports published by the
-        Ministry of Road Transport and Highways (MoRTH) or local governmental
-        sources. These reports detail fatalities and are critical for
-        understanding regional trends in road safety.
+        in India.
       </p>
     </div>
   );
@@ -214,9 +205,7 @@ const SkeletonFour = () => {
         accidents include high-speed crashes during off-peak hours and
         collisions at congested intersections during peak times. In cities with
         poor road infrastructure like Patna, accidents frequently occur due to
-        inadequate road maintenance and poorly marked hazards. Seasonal weather
-        conditions, like fog in northern cities such as Chandigarh, also
-        significantly contribute to accident rates by reducing visibility.
+        inadequate road maintenance.
       </p>
     </div>
   );
@@ -229,10 +218,7 @@ const SkeletonFive = () => {
       <p className='font-normal text-base my-4 max-w-lg text-neutral-200'>
         Historically, research and traffic studies have indicated that weekends,
         especially Saturdays, tend to see a higher number of road accidents in
-        cities like Mumbai. This trend is generally attributed to increased
-        travel during the weekend, with more vehicles on the road and a higher
-        likelihood of drivers under the influence of alcohol due to social
-        activities.
+        cities like Mumbai.
       </p>
     </div>
   );
@@ -247,9 +233,6 @@ const SkeletonSix = () => {
         environmental factors, and vehicle malfunctions. Over-speeding, drunk
         driving, distracted driving (such as using mobile phones), and
         non-compliance with traffic rules are predominant human-related causes.
-        Environmental factors include poor road conditions, adverse weather, and
-        inadequate street lighting, while vehicle-related issues often involve
-        failures like brake defects or tire blowouts.
       </p>
     </div>
   );
@@ -263,9 +246,7 @@ const SkeletonSeven = () => {
         In Delhi, road accidents are primarily attributed to over-speeding,
         reckless driving, and non-adherence to traffic rules. The high volume of
         traffic and poor compliance with road safety norms further compound
-        these issues. Additionally, driving under the influence of alcohol and
-        the presence of unmarked construction zones are significant contributors
-        to the city road safety challenges.
+        these issues.
       </p>
     </div>
   );
