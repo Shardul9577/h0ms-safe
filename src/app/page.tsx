@@ -61,17 +61,18 @@
 //   );
 // }
 
+// ______________________________________________________________________________
 
 import Image from "next/image";
 import Link from 'next/link';
 import { StickyScrollRevealDemo } from "./components/Product";
-import DrawerAppBar from "./components/Navbar";
 import Footer from "./components/Footer";
 import './components/css/Mainpage.css';
 import { HeroHighlightDemo } from "./components/globeDemo";
 import { LayoutGridDemo } from "./components/LayoutGridDemo";
 import { TracingBeamDemo } from "./components/TracingBeamDemo";
 import Head from 'next/head'; // Correct import for the head
+import Navbar from "./components/Navbar";
 
 export default function Home() {
   return (
@@ -83,7 +84,8 @@ export default function Home() {
           <link rel="apple-touch-icon" sizes="180x180" href="/Images/apple-touch-icon.png" />
           <title>Home - Your Site Name</title> // Add a title or other meta tags here
       </Head>
-      <DrawerAppBar/>
+
+      <Navbar/>
 
       <div style={{width:"100vw", height:"100vh"}}>
         <HeroHighlightDemo/>
