@@ -52,6 +52,7 @@
     .footer-2{
         display: flex !important;
         justify-content: space-between !important;
+        align-items: end;
     } 
 
     .footer-2-logo{

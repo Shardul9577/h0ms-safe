@@ -1,7 +1,6 @@
 
 import React from 'react'
 import './css/Footer.css'
-import { Linkedin , Instagram , Twitter } from 'lucide-react';
 
 function Footer() {
   return (
@@ -44,9 +43,9 @@ function Footer() {
       <div className='footer-section-2'>
         <div className='footer-section-2-logos'>
             <div className='footer-section-2-logo-social'>
-            <a target='_blank' href='https://www.linkedin.com/in/shardul-chaudhary-bab4b0260/'><Linkedin/></a>
-            <a target='_blank' href='https://www.instagram.com/_shardul_1210/'><Instagram/></a>
-            <a target='_blank' href='https://twitter.com/shardul1210'><Twitter/></a>
+            <a style={{fontSize:"1vw"}} target='_blank' href='https://www.linkedin.com/in/shardul-chaudhary-bab4b0260/'>Linkedin</a>
+            <a style={{fontSize:"1vw"}} target='_blank' href='https://www.instagram.com/_shardul_1210/'>Instagram</a>
+            <a style={{fontSize:"1vw"}} target='_blank' href='https://twitter.com/shardul1210'>Twitter</a>
             </div>
             <div className='footer-section-2-logo-notsocial'>
                 <img className='logo-img' src='https://www.induced.ai/_next/image?url=%2Ffooter%2Fsoc.png&w=2048&q=75'/>
@@ -62,9 +61,9 @@ function Footer() {
     <div className='footer-2'>
       <img className='footer-2-logo' src='/Images/HOMS.png'/>
       <div className='footer-section-2-logo-social'>
-        <a target='_blank' href='https://www.linkedin.com/in/shardul-chaudhary-bab4b0260/'><Linkedin/></a>
-        <a target='_blank' href='https://www.instagram.com/_shardul_1210/'><Instagram/></a>
-        <a target='_blank' href='https://twitter.com/shardul1210'><Twitter/></a>
+        <a style={{fontSize:"1vw"}} target='_blank' href='https://www.linkedin.com/in/shardul-chaudhary-bab4b0260/'>Linkedin</a>
+        <a style={{fontSize:"1vw"}} target='_blank' href='https://www.instagram.com/_shardul_1210/'>Instagram</a>
+        <a style={{fontSize:"1vw"}} target='_blank' href='https://twitter.com/shardul1210'>Twitter</a>
       </div>
     </div>
     </>

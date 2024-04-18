@@ -6,12 +6,12 @@
     height: 4rem;
     width: 100vw;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
 .company-logo{
-    width: 15vw;
+    width: 15rem;
 }
 
 .company-logo-2{
