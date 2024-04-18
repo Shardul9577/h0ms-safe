@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Jersey+10&family=Jersey+10+Charted&display=swap');
+
+.cards-alignment{
+    display:flex ; 
+    justify-content:space-evenly;
+}
+
+.general-heading{
+    margin-top:5%;
+    text-align:center;
+}
+
+.pin-card{
+    margin-top: -10%;
+}
+
+.general-heading{
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8vw;
+}
+
+@media only screen and (max-width: 799px) {
+    .cards-alignment{
+        display:flex ; 
+        flex-direction: column;
+    }
+}
